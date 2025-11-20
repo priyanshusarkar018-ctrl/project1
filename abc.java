@@ -6,6 +6,7 @@ public class abc {
         System.out.print("Enter input: ");
         String input = sc.nextLine();
         System.out.println("You entered: " + input);
+        System.out.println("hellow world!@");
         sc.close();
     }
 }
